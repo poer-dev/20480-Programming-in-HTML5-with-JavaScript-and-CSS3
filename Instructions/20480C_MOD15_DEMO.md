@@ -8,7 +8,7 @@ Wherever a path to a file starts with *[Repository Root]*, replace it with the a
 
 #### Preparation Steps
 
-Ensure that you have cloned the 20480C directory from GitHub. It contains the code segments for the labs and demos of this course. (**https://github.com/MicrosoftLearning/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles**)
+Ensure that you have cloned the 20480C directory from GitHub. It contains the code segments for the labs and demos of this course. (**https://github.com/poer-dev/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles**)
 
 #### Demonstration Steps
 
@@ -62,7 +62,7 @@ Ensure that you have cloned the 20480C directory from GitHub. It contains the co
 
 #### Preparation Steps 
 
-Ensure that you have cloned the 20480C directory from GitHub. It contains the code segments for the labs and demos of this course. (**https://github.com/MicrosoftLearning/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles**)
+Ensure that you have cloned the 20480C directory from GitHub. It contains the code segments for the labs and demos of this course. (**https://github.com/poer-dev/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles**)
 
 #### Demonstration Steps
 

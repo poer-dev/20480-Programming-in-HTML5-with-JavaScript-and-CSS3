@@ -7,7 +7,7 @@ Wherever a path to a file starts with *[Repository Root]*, replace it with the a
 
 #### Preparation Steps 
 
-Ensure that you have cloned the 20480C directory from GitHub (**https://github.com/MicrosoftLearning/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles**). It contains the code segments for the labs and demos in this course.
+Ensure that you have cloned the 20480C directory from GitHub (**https://github.com/poer-dev/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles**). It contains the code segments for the labs and demos in this course.
 
 #### Demonstration Steps
 
@@ -44,7 +44,7 @@ Ensure that you have cloned the 20480C directory from GitHub (**https://github.c
 
 #### Preparation Steps 
 
-Ensure that you have cloned the 20480C directory from GitHub (**https://github.com/MicrosoftLearning/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles**). It contains the code segments for the labs and demos in this course. 
+Ensure that you have cloned the 20480C directory from GitHub (**https://github.com/poer-dev/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles**). It contains the code segments for the labs and demos in this course. 
 
 #### Demonstration Steps
 
@@ -98,7 +98,7 @@ Ensure that you have cloned the 20480C directory from GitHub (**https://github.c
 
 #### Preparation Steps 
 
-Ensure that you have cloned the 20480C directory from GitHub (**https://github.com/MicrosoftLearning/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles**). It contains the code segments for the labs and demos in this course.
+Ensure that you have cloned the 20480C directory from GitHub (**https://github.com/poer-dev/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles**). It contains the code segments for the labs and demos in this course.
 
 #### Demonstration Steps
 
@@ -130,7 +130,7 @@ Ensure that you have cloned the 20480C directory from GitHub (**https://github.c
 
 #### Preparation Steps 
 
-Ensure that you have cloned the 20480C directory from GitHub (**https://github.com/MicrosoftLearning/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles**). It contains the code segments for the labs and demos in this course. 
+Ensure that you have cloned the 20480C directory from GitHub (**https://github.com/poer-dev/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles**). It contains the code segments for the labs and demos in this course. 
 
 #### Demonstration Steps
 
@@ -167,7 +167,7 @@ Ensure that you have cloned the 20480C directory from GitHub (**https://github.c
 
 #### Preparation Steps 
 
-1. Ensure that you have cloned the 20480C directory from GitHub (**https://github.com/MicrosoftLearning/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles**). It contains the code segments for the labs and demos in this course. 
+1. Ensure that you have cloned the 20480C directory from GitHub (**https://github.com/poer-dev/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles**). It contains the code segments for the labs and demos in this course. 
 
 #### Demonstration Steps
 

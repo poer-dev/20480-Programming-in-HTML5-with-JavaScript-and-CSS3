@@ -6,7 +6,7 @@ Wherever a path to a file starts with *[Repository Root]*, replace it with the a
 
 #### Preparation Steps 
 
-1. Ensure that you have cloned the 20480C directory from GitHub **(https://github.com/MicrosoftLearning/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles)**. It contains the code segments for the labs and demos in this course.
+1. Ensure that you have cloned the 20480C directory from GitHub **(https://github.com/poer-dev/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles)**. It contains the code segments for the labs and demos in this course.
 2. Browse to **[Repository Root]/Allfiles/Mod01/Democode**, and then open the **DemoWebSite - Complete.sln** file.
 3. Run the **DemoWebSite - Complete.sln** application.
 4. In Microsoft Edge, on the address bar, note the port number that appears after **http://localhost:**. You will use this port number during this demonstration.
@@ -131,7 +131,7 @@ Wherever a path to a file starts with *[Repository Root]*, replace it with the a
 
 #### Preparation Steps 
 
-1. Ensure that you have cloned the 20480C directory from GitHub **(https://github.com/MicrosoftLearning/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles)**. It contains the code segments for the labs and demos in this course. 
+1. Ensure that you have cloned the 20480C directory from GitHub **(https://github.com/poer-dev/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles)**. It contains the code segments for the labs and demos in this course. 
 
 
 #### Demonstration Steps
@@ -210,7 +210,7 @@ Wherever a path to a file starts with *[Repository Root]*, replace it with the a
 
 #### Preparation Steps 
 
-1. Ensure that you have cloned the 20480C directory from GitHub (**https://github.com/MicrosoftLearning/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles**). It contains the code segments for the labs and demos in this course. 
+1. Ensure that you have cloned the 20480C directory from GitHub (**https://github.com/poer-dev/20480-Programming-in-HTML5-with-JavaScript-and-CSS3/tree/master/Allfiles**). It contains the code segments for the labs and demos in this course. 
 
 #### Demonstration Steps
 
